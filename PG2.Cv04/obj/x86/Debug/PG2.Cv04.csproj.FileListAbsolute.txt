@@ -1,0 +1,9 @@
+D:\Škola\Počítačová grafika 2\PG2.Cv04.Template\Pavlovicova_PD4\PG2.Cv04\bin\Debug\PG2.Cv04.exe
+D:\Škola\Počítačová grafika 2\PG2.Cv04.Template\Pavlovicova_PD4\PG2.Cv04\bin\Debug\PG2.Cv04.pdb
+D:\Škola\Počítačová grafika 2\PG2.Cv04.Template\Pavlovicova_PD4\PG2.Cv04\obj\x86\Debug\PG2.Cv04.csproj.AssemblyReference.cache
+D:\Škola\Počítačová grafika 2\PG2.Cv04.Template\Pavlovicova_PD4\PG2.Cv04\obj\x86\Debug\PG2.Cv04.Form1.resources
+D:\Škola\Počítačová grafika 2\PG2.Cv04.Template\Pavlovicova_PD4\PG2.Cv04\obj\x86\Debug\PG2.Cv04.Properties.Resources.resources
+D:\Škola\Počítačová grafika 2\PG2.Cv04.Template\Pavlovicova_PD4\PG2.Cv04\obj\x86\Debug\PG2.Cv04.csproj.GenerateResource.cache
+D:\Škola\Počítačová grafika 2\PG2.Cv04.Template\Pavlovicova_PD4\PG2.Cv04\obj\x86\Debug\PG2.Cv04.csproj.CoreCompileInputs.cache
+D:\Škola\Počítačová grafika 2\PG2.Cv04.Template\Pavlovicova_PD4\PG2.Cv04\obj\x86\Debug\PG2.Cv04.exe
+D:\Škola\Počítačová grafika 2\PG2.Cv04.Template\Pavlovicova_PD4\PG2.Cv04\obj\x86\Debug\PG2.Cv04.pdb
